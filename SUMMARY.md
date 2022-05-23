@@ -44,6 +44,11 @@
 * [Information Security Framework](compliance/information-security-framework.md)
 * [Regulatory Requirements](compliance/regulatory-requirements.md)
 
+## Certification
+
+* [ISO27001](certification/iso27001.md)
+* [ISO27001 - 114 controls](certification/iso27001-114-controls.md)
+
 ## Assessment
 
 * [Coming Soon!](assessment/coming-soon.md)
@@ -57,8 +62,3 @@
 ***
 
 * [Privacy Policy](privacy-policy.md)
-
-## Certification
-
-* [ISO27001](certification/iso27001.md)
-* [ISO27001 - 114 controls](certification/iso27001-114-controls.md)
