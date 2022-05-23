@@ -62,4 +62,3 @@
 
 * [ISO27001](certification/iso27001.md)
 * [ISO27001 - 114 controls](certification/iso27001-114-controls.md)
-* [Control List](certification/control-list.md)
