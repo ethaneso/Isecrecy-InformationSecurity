@@ -57,3 +57,8 @@
 ***
 
 * [Privacy Policy](privacy-policy.md)
+
+## Certification
+
+* [ISO27001](certification/iso27001.md)
+* [Control List](certification/control-list.md)
