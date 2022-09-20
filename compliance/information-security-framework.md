@@ -1,26 +1,10 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
----
-
 # Information Security Framework
 
-#### Information security management is essential for IT government, which plays a critical role in corporate governance. The information security policy is to establish the framework and processes for data security management. The data security practices not only protect personal identification information in compliance of regulatory requirements, but also secure corporate confidential secrets in keeping the edges in business.&#x20;
-
-{% hint style="info" %}
-
-{% endhint %}
+#### Information security management is essential for IT government, which plays a critical role in corporate governance. The information security policy is to establish the framework and processes for data security management. The data security practices not only protect personal identification information in compliance of regulatory requirements, but also secure corporate confidential secrets in keeping the edges in business.
 
 ## Information Security and Privacy Policy
 
-{% hint style="info" %}
-
-{% endhint %}
-
 ###
-
-
 
 ## Organisation of Security Policy
 
@@ -50,8 +34,6 @@ Take actions against employees who committed an information security and privacy
 
 Define responsibilities and duties that remain valid after termination or change of employment to employees or contractors
 
-
-
 ## Asset Management
 
 Classify information with a standard of legal requirements, asset value, criticality of consequences of disclosure
@@ -68,15 +50,13 @@ Documented and implement rules for acceptable use of information and information
 
 Dispose media securely according to formal procedures
 
-Protect media with information &#x20;
+Protect media with information
 
 Identify cloud service customer data with cloud service derived data
 
-
-
 ## Access Control
 
-Establish access control policy based on business requirements and information security policy&#x20;
+Establish access control policy based on business requirements and information security policy
 
 Authorised users with least privilege principles
 
@@ -102,15 +82,11 @@ Restrict access to program source code
 
 Protect virtual environment from other services and unauthorised persons
 
-
-
-
-
 ## Cryptography
 
 Implement cryptographic controls for protection of information
 
-Manage lifecycle of cryptographic keys&#x20;
+Manage lifecycle of cryptographic keys
 
 ## Physical and Environmental Security
 
@@ -152,7 +128,7 @@ Administrate the categories of changes, planned date and time of changes, techni
 
 Monitor the use of resources and project the future capacity requirements to ensure system performance
 
-Monitor and prevent information security incidents&#x20;
+Monitor and prevent information security incidents
 
 Separate development, testing and operational environments
 
@@ -201,8 +177,6 @@ Address the secure transfer of business information to external parties
 
 Protect electronic messaging
 
-
-
 ## System Acquisition, Development and Maintenance
 
 Include information security requirements for new information systems or enhancements of existing systems
@@ -231,8 +205,6 @@ Establish acceptance testing programs and criteria for new information systems, 
 
 Select and protect test data
 
-
-
 ## Information Security in Supplier Relationship
 
 Document information security and privacy requirements for mitigating risks associated with supplier's access
@@ -253,8 +225,6 @@ Monitor, review, and audit supplier service delivery
 
 Manage changes to provision of services by suppliers
 
-
-
 ## Information Security Incident Management
 
 Establish management responsibilities and procedures to response to security incident
@@ -274,8 +244,6 @@ Response security and privacy incidents in accordance with documented procedures
 Gain knowledge from analysing and resolving security and privacy incident to reduce likelihood and impact
 
 Identify, collect, acquire and preserve information to serve as evidence
-
-&#x20;
 
 ## Information Security Aspects of Business Continuity Management
 
@@ -321,8 +289,6 @@ Determine and maintain the necessary records in support of the obligations for p
 * Provide a copy of PII what is processed when requested by PII principals
 * Define and document policies and procedures for handling and responding to legitimate requests from PII principals
 
-
-
 ## Privacy by Design and Privacy by Default
 
 Limit the collection of PII to the minimum that is relevant, proportional and necessary for the identified purposes
@@ -343,12 +309,10 @@ Documented policies, procedures, or mechanisms for disposal of PII
 
 Transmit PII over a data-transmission network with appropriate controls to ensure data reaches its intended destination
 
-
-
-## PII Sharing, Transfer, and Disclosure&#x20;
+## PII Sharing, Transfer, and Disclosure
 
 * Identify and document the relevant basis for transfer of PII between jurisdictions
-* Specify and document the countries and international organisations to  which PII can be transferred
+* Specify and document the countries and international organisations to which PII can be transferred
 * Record transfers of PII and ensure cooperation to support future requests related to obligations to PII principals
 * Record disclosures of PII to third parities to include what, who, when that PII disclosure
 
@@ -379,6 +343,3 @@ Transmit PII over a data-transmission network with appropriate controls to ensur
 * Disclose any use of subcontractors to process PII to customer before use
 * Engage a subcontractor to process PII according to customer contract
 * Inform customer of any intended changes concerning the addition or replacement of subcontractors to process PII, giving the customer the opportunity to object to such changes
-
-&#x20;
-

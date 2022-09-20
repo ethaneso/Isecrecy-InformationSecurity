@@ -2,7 +2,11 @@
 
 * [Isecrecy - Information Security](README.md)
 * [1. Security Policy & Standards](1.-security-policy-and-standards.md)
-* [2. Asset Management](2.-asset-management.md)
+* [2. Asset Management](2.-asset-management/README.md)
+  * [Asset Acquisition](2.-asset-management/asset-acquisition.md)
+  * [Asset Inventory](2.-asset-management/asset-inventory.md)
+  * [Asset Retirement](2.-asset-management/asset-retirement.md)
+  * [Change Management](2.-asset-management/change-management.md)
 * [3. Data Protection](1.-data-protection/README.md)
   * [Data Management](1.-data-protection/data-management.md)
   * [Data at Rest](1.-data-protection/data-at-rest.md)
@@ -42,8 +46,12 @@
   * [Risk Management Process](8.-risk-management/risk-management-process.md)
   * [Risk and Response](8.-risk-management/risk-and-response.md)
   * [Supplier Risk Management](8.-risk-management/supplier-risk-management.md)
-* [11. Vulnerability Management](11.-vulnerability-management.md)
-* [12. Compliance Management](12.-compliance-management.md)
+* [11. Vulnerability Management](11.-vulnerability-management/README.md)
+  * [Vulnerability Assessment](11.-vulnerability-management/vulnerability-assessment.md)
+  * [Vulnerability Remediation](11.-vulnerability-management/vulnerability-remediation.md)
+* [12. Compliance Management](12.-compliance-management/README.md)
+  * [Security Audit](12.-compliance-management/security-audit.md)
+  * [Security Compliance](12.-compliance-management/security-compliance.md)
 
 ## Compliance
 
