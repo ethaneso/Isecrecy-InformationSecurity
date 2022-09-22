@@ -67,7 +67,7 @@
 ## Assessment
 
 * [Coming Soon!](assessment/coming-soon.md)
-* [Malware Analysis](assessment/malware-analysis.md)
+* [Malware Analysis Tools](assessment/malware-analysis-tools.md)
 
 ## Secure Software Development
 
