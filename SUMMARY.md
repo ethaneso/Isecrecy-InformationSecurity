@@ -56,7 +56,8 @@
 ## Compliance
 
 * [Information Security Framework](compliance/information-security-framework.md)
-* [Regulatory Requirements](compliance/regulatory-requirements.md)
+* [GDPR - Regulatory Requirements](compliance/regulatory-requirements.md)
+* [Data Privacy Compliance](compliance/data-privacy-compliance.md)
 
 ## Certification
 
