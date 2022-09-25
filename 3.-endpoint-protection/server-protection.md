@@ -2,6 +2,9 @@
 
 Server hardening
 
+* Linux server hardening
+* Windows server hardening
+
 Application control
 
 Host-based firewall
