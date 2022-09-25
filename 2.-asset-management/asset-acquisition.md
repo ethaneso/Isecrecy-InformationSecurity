@@ -13,3 +13,7 @@ Vendors can then _implement_ or make claims about the security attributes of the
 
 
 <figure><img src="../.gitbook/assets/cc component.png" alt=""><figcaption><p>CC components</p></figcaption></figure>
+
+#### Evaluation Assurance Level
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
