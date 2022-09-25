@@ -2,7 +2,7 @@
 
 #### A lifecycle of media management usually goes through,
 
-1. Creation
+1. Creation / Ownership
 2. Classification (1)
 3. Storage
 4. Usage
