@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # ISO27001 - 114 controls
 
 
