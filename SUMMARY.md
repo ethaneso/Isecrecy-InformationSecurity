@@ -31,6 +31,8 @@
   * [Email](4.-network-protection/email.md)
   * [Web Service](4.-network-protection/web-service.md)
   * [Network Logging](4.-network-protection/network-logging.md)
+  * [DNS Protection](4.-network-protection/dns-protection.md)
+  * [DoS Protection](4.-network-protection/dos-protection.md)
 * [7. Application Service Protection](5.-application-service-protection/README.md)
   * [Application Security Standard](5.-application-service-protection/application-security-standard.md)
   * [Application Secure Development](5.-application-service-protection/application-secure-development.md)
