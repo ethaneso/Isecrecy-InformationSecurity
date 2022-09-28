@@ -2,13 +2,14 @@
 
 Web filtering
 
-inbound and outbound traffic
+Inbound and outbound traffic
 
-malicious code detection
+Malicious code detection
 
-malicious traffic sandboxing
+Malicious traffic sandboxing
 
 URL blacklisting / whitelisting
 
 SSL inspection
 
+All users / traffic flow through web filtering
