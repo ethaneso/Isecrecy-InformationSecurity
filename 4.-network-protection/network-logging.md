@@ -1,18 +1,18 @@
 # Network Logging
 
-network filtering logs
+Network filtering logs
 
-backup logs
+Backup logs and retained
 
-hashing logs
+Hashing logs
 
-synchronise logs to a central time source
+Synchronise logs to a central time source
 
-an log management system
+An log management system
 
 Type of logs captured
 
-* action type&#x20;
+* action type
 * event type
 * subsystems
 * identifiers

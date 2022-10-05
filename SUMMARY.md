@@ -70,7 +70,7 @@
 
 * [Coming Soon!](assessment/coming-soon.md)
 * [Malware Analysis Tools](assessment/malware-analysis.md)
-* [KPIs in Measuring Cyber Security Risks](assessment/kpis-in-measuring-cyber-security-risks.md)
+* [Measuring Cyber Security Risks](assessment/measuring-cyber-security-risks.md)
 
 ## Secure Software Development
 

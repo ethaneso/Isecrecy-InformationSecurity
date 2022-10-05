@@ -1,8 +1,21 @@
 # Network Firewalls
 
-Firewall capabilities
+#### Firewall capabilities
 
-Network segments protection
+* Inspect stateful packets
+* Inspect deep packets
+* Decrypt SSL
+* Prevent network intrusion
+* Default rule for Deny Any
+* Application protocol decoding
+* User and application control
+* IPsec VPN
+* High Availability
 
-Review firewall rules
+#### Network segments protection
 
+* Network separation
+* Internal v.s. external
+* Departmental segment
+
+Review firewall rules regularly
