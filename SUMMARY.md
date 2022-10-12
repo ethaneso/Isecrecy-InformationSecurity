@@ -65,11 +65,12 @@
 
 * [ISO27001](certification/iso27001.md)
 * [ISO27001 - 114 controls](certification/iso27001-114-controls.md)
+* [ISO27001 - Mandatory Clauses](certification/iso27001-mandatory-clauses.md)
 
 ## Assessment
 
 * [Cybersecurity Maturity Assessment](assessment/coming-soon.md)
-* [Measuring Cyber Security Risks Indicators](assessment/measuring-cyber-security-risks-indicators.md)
+* [Measuring Cyber Security Risks Indicators](assessment/measuring-cyber-security-risks.md)
 * [Malware Analysis Tools](assessment/malware-analysis.md)
 
 ## Secure Software Development
