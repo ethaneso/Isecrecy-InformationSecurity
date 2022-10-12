@@ -69,7 +69,7 @@
 ## Assessment
 
 * [Cybersecurity Maturity Assessment](assessment/coming-soon.md)
-* [Measuring Cyber Security Risks](assessment/measuring-cyber-security-risks.md)
+* [Measuring Cyber Security Risks Indicators](assessment/measuring-cyber-security-risks-indicators.md)
 * [Malware Analysis Tools](assessment/malware-analysis.md)
 
 ## Secure Software Development
