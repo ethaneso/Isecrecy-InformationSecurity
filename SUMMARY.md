@@ -68,7 +68,7 @@
 
 ## Assessment
 
-* [Coming Soon!](assessment/coming-soon.md)
+* [Cybersecurity Maturity Assessment](assessment/coming-soon.md)
 * [Measuring Cyber Security Risks](assessment/measuring-cyber-security-risks.md)
 * [Malware Analysis Tools](assessment/malware-analysis.md)
 

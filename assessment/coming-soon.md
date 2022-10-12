@@ -4,11 +4,55 @@ cover: >-
 coverY: 0
 ---
 
-# Coming Soon!
+# Cybersecurity Maturity Assessment
+
+Leadership & Governance
+
+* Governance structure for program ownership
+* Capability assessment in data assets and critical infra
+* Strategy and funding requests
+* Strategy and approach
+* Periodic updates of program
 
 
 
-{% hint style="info" %}
+Human Factors
 
-{% endhint %}
+* Security culture and expectations
+* Cybersecurity training and awareness programs
+* Personal security controls
 
+
+
+Information Risk Management
+
+* Risk assessment management
+* Risk tolerance assessment
+* Third-party supplier risk management
+
+
+
+Business Continuity & Crisis Management
+
+* Response capability
+* Review BCP & DRP maturity
+* Communication personel
+* Simulation test
+
+
+
+Operations & Technology
+
+* Maturity of control structure
+* Review control framework
+* Review incident trend metrics
+* Integration of cyber and IT trends
+
+
+
+Legal & Compliance
+
+* The regulatory landscape => relevant compliance requirements
+* Audit requirements => compliance requirements to control framework
+* Litigate inventory trends => against data breach
+* Cyber insurance funding => need for cyber insurance
