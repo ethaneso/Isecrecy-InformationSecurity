@@ -1,4 +1,4 @@
-# Measuring Cyber Security Risks Indicators
+# Measuring Cyber Security Risks
 
 ### Mean Time to Detect (MTTD)
 

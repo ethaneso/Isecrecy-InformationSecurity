@@ -64,8 +64,9 @@
 ## Certification
 
 * [ISO27001](certification/iso27001.md)
-* [ISO27001 - 114 controls](certification/iso27001-114-controls.md)
+* [ISO27001 - Docs & Records](certification/iso27001-docs-and-records.md)
 * [ISO27001 - Mandatory Clauses](certification/iso27001-mandatory-clauses.md)
+* [ISO27001 - 114 controls](certification/iso27001-114-controls.md)
 
 ## Assessment
 
